@@ -1,0 +1,12 @@
+{
+	"Welcome": "Welcome",
+    "A brand new app.": "A brand new app.",
+    "Somehting went wrong":"Somehting went wrong!",
+    "Mobile number required":"Mobile number required!",
+    "User id required":"User id required!",
+    "Verification code sent successfully":"Verification code sent successfully!",
+    "Verification code required":"Verification code required",
+    "Wrong Verification code":"Wrong Verification code!",
+    "User verified successfully":"User verified successfully!",
+    "No User found with given mobile number":"No User found with given mobile number"
+}
