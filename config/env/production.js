@@ -50,21 +50,21 @@ module.exports = {
         }
     },
     aws:{
-		accessKeyId:"AKIAIAQI5D47TVF2OZ7Q",
-		secretAccessKey:"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",
+		accessKeyId:"",
+		secretAccessKey:"",
 		region:"us-west-2"
 	},
 
     /****** Connect Twilio ******/
-    twilioSid: 'AC239e0c79a9bb9cc5d6f0fae6b99b21de',
-    twilioauthToken: '071d1d2b2db3be5c4c3b82b56d38d2df',
-    twiliomobilenumber: '+12134938567',
+    twilioSid: '',
+    twilioauthToken: '',
+    twiliomobilenumber: '',
 
     /****** Connect AWS key ******/
 
     AWSConfig: AWS.config.update({
-        accessKeyId: 'AKIAIAQI5D47TVF2OZ7Q',
-        secretAccessKey: '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',
+        accessKeyId: '',
+        secretAccessKey: '',
         region: 'us-west-2'
     }),
 
